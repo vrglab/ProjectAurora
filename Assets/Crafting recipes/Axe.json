@@ -1,0 +1,20 @@
+{
+
+ 
+   "amout1": "2",
+   "amout2": "2",
+
+
+
+  "key": 
+  {
+    "sti": { "item": "Stick" },
+    "sto": { "item": "Stone" }
+  },
+
+  "result": { "item": "Axe" },
+  "count": 1
+
+
+}
+

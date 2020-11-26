@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: b1a8bd1b91bf19d438886c66db60e8f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1811178068073362662
+    second: Base building in space_0
+  - first:
+      213: -1736966196782687796
+    second: Base building in space_1
+  - first:
+      213: 7766257086115703764
+    second: Base building in space_2
+  - first:
+      213: 1621373334293945061
+    second: Base building in space_3
+  - first:
+      213: -1595480108488900583
+    second: Base building in space_4
+  - first:
+      213: 3717091394360359499
+    second: Base building in space_5
+  - first:
+      213: -2201679796943877330
+    second: Base building in space_6
+  - first:
+      213: -3545734056813560503
+    second: Base building in space_7
+  - first:
+      213: 4877831627350995569
+    second: Base building in space_8
+  - first:
+      213: -8200653635572678199
+    second: Base building in space_9
+  - first:
+      213: 725597481338022843
+    second: Base building in space_10
+  - first:
+      213: 157460881009107172
+    second: Base building in space_11
+  - first:
+      213: 3572522727679330268
+    second: Base building in space_12
+  - first:
+      213: -7319765635354415972
+    second: Base building in space_13
+  - first:
+      213: 6309890872047050625
+    second: Base building in space_14
+  - first:
+      213: 3974835587592937174
+    second: Base building in space_15
+  - first:
+      213: 3430791221535467239
+    second: Base building in space_16
+  - first:
+      213: -664249091936913698
+    second: Base building in space_17
+  - first:
+      213: -6496763759440166192
+    second: Base building in space_18
+  - first:
+      213: 1763864479209652489
+    second: Base building in space_19
+  - first:
+      213: 2793914945681570379
+    second: Base building in space_20
+  - first:
+      213: -3631177405153334136
+    second: Base building in space_21
+  - first:
+      213: 4554581469595196764
+    second: Base building in space_22
+  - first:
+      213: -8272264578000585052
+    second: Base building in space_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 141.4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base building in space_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1919
+        width: 220
+        height: 171
+      alignment: 9
+      pivot: {x: 0.6727272, y: 0.374269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc918e5627e05e7e0800000000000000
+      internalID: -1736966196782687796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1945
+        width: 86
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6511628, y: 0.3764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db69442ca947cb60800000000000000
+      internalID: 7766257086115703764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1792
+        width: 411
+        height: 316
+      alignment: 9
+      pivot: {x: 0.72019464, y: 0.3227848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea91e60576408610800000000000000
+      internalID: 1621373334293945061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_4
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1908
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91041576b47bbd9e0800000000000000
+      internalID: -1595480108488900583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_5
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1917
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ab28edde2c59330800000000000000
+      internalID: 3717091394360359499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_6
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1696
+        width: 394
+        height: 326
+      alignment: 9
+      pivot: {x: 0.49238577, y: 0.2607362}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8102c3ef0271e0800000000000000
+      internalID: -2201679796943877330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_7
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1672
+        width: 471
+        height: 283
+      alignment: 9
+      pivot: {x: 0.57961786, y: 0.35689047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d7f9359a50bcec0800000000000000
+      internalID: -3545734056813560503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_8
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1771
+        width: 88
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172fb6e650a81b340800000000000000
+      internalID: 4877831627350995569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_9
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 1690
+        width: 351
+        height: 233
+      alignment: 9
+      pivot: {x: 0.64387465, y: 0.21888413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1cca5a7fc613e80800000000000000
+      internalID: -8200653635572678199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_11
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 1799
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0619646d96f2200800000000000000
+      internalID: 157460881009107172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1418
+        width: 247
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca699bfe7fa6a90800000000000000
+      internalID: -7319765635354415972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1452
+        width: 130
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f18df115c319750800000000000000
+      internalID: 6309890872047050625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_15
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1423
+        width: 346
+        height: 258
+      alignment: 9
+      pivot: {x: 0.49132946, y: 0.14728682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dede0748e3792730800000000000000
+      internalID: 3974835587592937174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_18
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 553
+        width: 555
+        height: 951
+      alignment: 9
+      pivot: {x: 0.590991, y: 0.057833858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d200f838cbd6d5a0800000000000000
+      internalID: -6496763759440166192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_21
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 623
+        width: 156
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c296983677b9dc0800000000000000
+      internalID: -3631177405153334136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 610
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae7a34d133033d80800000000000000
+      internalID: -8272264578000585052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_0
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1521
+        width: 119
+        height: 100
+      alignment: 9
+      pivot: {x: 0.66386557, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4bd7c5bd8922910800000000000000
+      internalID: 1811178068073362662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_10
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1541
+        width: 134
+        height: 103
+      alignment: 9
+      pivot: {x: 0.61940295, y: 0.47572815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb221d9017d11a00800000000000000
+      internalID: 725597481338022843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1185
+        width: 93
+        height: 228
+      alignment: 9
+      pivot: {x: 0.53763443, y: 0.46052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd706572e76249130800000000000000
+      internalID: 3572522727679330268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_16
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1107
+        width: 382
+        height: 159
+      alignment: 9
+      pivot: {x: 0.4842932, y: 0.08805031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6662a507e9c9f20800000000000000
+      internalID: 3430791221535467239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_17
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 662
+        width: 285
+        height: 349
+      alignment: 9
+      pivot: {x: 0.5045153, y: 0.21737924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed679b068fc18c6f0800000000000000
+      internalID: -664249091936913698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base building in space_19
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 670
+        width: 308
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901883306618a7810800000000000000
+      internalID: 1763864479209652489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

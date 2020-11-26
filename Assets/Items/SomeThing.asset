@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0f3a33d74cf624eaf005980e6fb8b1, type: 3}
+  m_Name: SomeThing
+  m_EditorClassIdentifier: 
+  Image: {fileID: -1736966196782687796, guid: b1a8bd1b91bf19d438886c66db60e8f0, type: 3}
+  Name: Iron
+  Discription: Can be used to craft items
+  Type: 0
+  Stackable: 1
+  StackLimit: 20
+  Id: iron
+  GameObject: {fileID: 2567406504009632869, guid: 4c0334fd9f65be241b9f7006400c976b, type: 3}
